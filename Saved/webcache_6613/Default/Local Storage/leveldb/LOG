@@ -1,0 +1,8 @@
+2026/03/26-17:31:55.351 c5d4 Creating DB C:\Users\rodri\OneDrive\Documentos\Unreal Projects\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/26-17:31:55.389 c5d4 Reusing MANIFEST C:\Users\rodri\OneDrive\Documentos\Unreal Projects\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/26-17:38:29.500 8edc Level-0 table #5: started
+2026/03/26-17:38:29.507 8edc Level-0 table #5: 66171 bytes OK
+2026/03/26-17:38:29.510 8edc Delete type=0 #3
+2026/03/26-17:42:28.620 8edc Level-0 table #7: started
+2026/03/26-17:42:28.629 8edc Level-0 table #7: 70790 bytes OK
+2026/03/26-17:42:28.632 8edc Delete type=0 #4
