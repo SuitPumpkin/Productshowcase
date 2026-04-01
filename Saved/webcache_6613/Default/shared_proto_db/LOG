@@ -1,2 +1,3 @@
-2026/03/26-17:32:12.671 c358 Creating DB C:\Users\rodri\OneDrive\Documentos\Unreal Projects\MyProject\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/03/26-17:32:12.679 c358 Reusing MANIFEST C:\Users\rodri\OneDrive\Documentos\Unreal Projects\MyProject\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/31-17:12:17.459 918 Reusing MANIFEST C:\Users\rodri\OneDrive\Documentos\Unreal Projects\Productshowcase\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/31-17:12:17.460 918 Recovering log #3
+2026/03/31-17:12:17.461 918 Reusing old log C:\Users\rodri\OneDrive\Documentos\Unreal Projects\Productshowcase\Saved\webcache_6613\Default\shared_proto_db/000003.log 

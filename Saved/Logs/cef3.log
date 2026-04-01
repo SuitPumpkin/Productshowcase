@@ -1,15 +1,26 @@
-[40320:47664:0326/173155.038:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[40320:50008:0326/173155.119:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[40320:47664:0326/173155.178:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[40320:47664:0326/173218.730:ERROR:device_event_log_impl.cc(196)] [17:32:18.078] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[7660:47284:0326/173219.068:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DFC71DF6A5FB6A2A71FF2B389B3FC709 will be ignored
-[40320:10528:0326/173223.133:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[40320:10528:0326/173223.375:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[40320:47664:0326/173223.713:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[40320:47664:0326/173223.713:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[40320:47664:0326/173223.713:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[40320:47664:0326/173223.713:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[40320:10528:0326/173223.726:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[40320:10528:0326/173224.148:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[46264:2788:0326/173329.510:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-E0DE845B799727394D4632773741C52F will be ignored
-[40320:47664:0326/174457.739:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16140:5860:0331/171152.751:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16140:8316:0331/171153.013:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16140:5860:0331/171153.138:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16140:5860:0331/171220.306:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[356:3092:0331/171223.876:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E2FB79F20CF186521506CC20EF11578B will be ignored
+[16140:7656:0331/171227.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16140:7656:0331/171229.106:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16140:5860:0331/171440.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171445.633:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171450.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171455.716:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171500.732:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171505.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171510.831:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171515.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171520.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171525.969:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171530.990:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171536.013:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171541.032:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171546.048:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171551.059:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171556.128:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171601.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171606.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16140:5860:0331/171727.475:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
